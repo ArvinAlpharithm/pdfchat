@@ -6,3 +6,4 @@ faiss-cpu
 llama-index
 langchain
 langchain-community
+llama_index.llms.groq
